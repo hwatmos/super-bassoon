@@ -21,6 +21,3 @@ Model calculates a grid of possible solutions, which may take up to few minutes.
 
 ### Second Interim Formulas in Bayesian Setting
 It can be shown that the second interim inventory follows Negative Binomial distribution with properly formulated parameters. When time allows, I will add derivation here.
-
-### Optimization Details
-Using efficient formulations for Poisson distribution but also the posterior of Poisson which is a Binomial, precalculate probability tables. Next, a grid search is performed to find the optimal quantities as well as second order time, tau. 
